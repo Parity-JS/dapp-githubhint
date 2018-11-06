@@ -24,7 +24,7 @@
 .container {
   vertical-align: middle;
   padding: 4em 0;
-  margin: 0 0 2em 0;
+  margin: 0 0 2em;
 }
 
 .form {
@@ -44,12 +44,12 @@
 
 .buttons {
   text-align: center;
-  margin: 0 auto 2em auto;
+  margin: 0 auto 2em;
 }
 
 .box .buttons {
   text-align: right;
-  margin: 2em 0 0 0;
+  margin: 2em 0 0;
   position: relative;
 }
 
@@ -60,13 +60,13 @@
 }
 
 .box .description {
-  margin: 0 0 2em 0;
+  margin: 0 0 2em;
   text-align: center;
   opacity: 0.75;
 }
 
 .progress {
-  margin: 2em 0 0 0;
+  margin: 2em 0 0;
   opacity: 0.75;
   text-align: center;
 }
@@ -75,18 +75,16 @@
   font-size: 1em;
 }
 
-.statusState, .statusError {
-  padding: 1em 0 0 0;
+.statusState,
+.statusError {
+  padding: 1em 0 0;
 }
 
 .statusError {
   color: #f66;
 }
 
-.capture {
-}
-
-.capture+.capture {
+.capture + .capture {
   margin-top: 0.5em;
 }
 
@@ -116,7 +114,9 @@
   background: #fcc;
 }
 
-.hashError, .hashWarning, .hashOk {
+.hashError,
+.hashWarning,
+.hashOk {
   margin: 0.5em 0;
   text-align: center;
   padding: 1em 0;
@@ -144,10 +144,10 @@
 
 .typeButtons {
   text-align: center;
-  padding: 0 0 1em 0;
+  padding: 0 0 1em;
 }
 
-.typeButtons>div {
+.typeButtons > div {
   border-radius: 0 !important;
 
   &:first-child {
