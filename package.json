@@ -46,7 +46,7 @@
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "@parity/api": "^2.1.15",
-    "@parity/shared": "2.2.x",
+    "@parity/shared": "3.0.x",
     "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.4",
     "babel-plugin-react-intl": "^3.0.1",
