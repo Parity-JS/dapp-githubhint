@@ -48,7 +48,7 @@
     "@parity/api": "^3.0.25",
     "@parity/shared": "3.0.x",
     "babel-eslint": "^10.0.1",
-    "babel-loader": "^8.0.4",
+    "babel-loader": "^8.0.5",
     "babel-plugin-react-intl": "^3.0.1",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.21",
     "css-loader": "^0.28.1",
