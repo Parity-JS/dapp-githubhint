@@ -50,7 +50,7 @@
     "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.5",
     "babel-plugin-react-intl": "^3.0.1",
-    "babel-plugin-transform-react-remove-prop-types": "^0.4.23",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "css-loader": "^0.28.1",
     "ejs-loader": "0.3.1",
     "eslint": "^5.12.1",

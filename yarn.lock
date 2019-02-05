@@ -410,7 +410,7 @@
     "@babel/helper-plugin-utils" "^7.0.0"
     "@babel/plugin-syntax-numeric-separator" "^7.2.0"
 
-"@babel/plugin-proposal-object-rest-spread@^7.3.0", "@babel/plugin-proposal-object-rest-spread@^7.3.1":
+"@babel/plugin-proposal-object-rest-spread@^7.3.1":
   version "7.3.1"
   resolved "https://registry.yarnpkg.com/@babel/plugin-proposal-object-rest-spread/-/plugin-proposal-object-rest-spread-7.3.1.tgz#f69fb6a1ea6a4e1c503994a91d9cf76f3c4b36e8"
   integrity sha512-Nmmv1+3LqxJu/V5jU9vJmxR/KIRWFk2qLHmbB56yRRRFhlaSuOVXscX3gUmhaKgUhzA3otOHVubbIEVYsZ0eZg==
@@ -1443,10 +1443,10 @@ babel-plugin-react-intl@^3.0.1:
     intl-messageformat-parser "^1.2.0"
     mkdirp "^0.5.1"
 
-babel-plugin-transform-react-remove-prop-types@^0.4.23:
-  version "0.4.23"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-react-remove-prop-types/-/babel-plugin-transform-react-remove-prop-types-0.4.23.tgz#f8677da27c9b0eb463aed1f8fd551df783ef142f"
-  integrity sha512-qMF7Il49meopQZ4d8cmLvlUnJhV8cREs5b55j1SaK7Wa+AHpg6t9SqqHFlM+qZoG4wagZIIB43Gn53Ur7J5xPg==
+babel-plugin-transform-react-remove-prop-types@^0.4.24:
+  version "0.4.24"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-react-remove-prop-types/-/babel-plugin-transform-react-remove-prop-types-0.4.24.tgz#f2edaf9b4c6a5fbe5c1d678bfb531078c1555f3a"
+  integrity sha512-eqj0hVcJUR57/Ug2zE1Yswsw4LhuqqHhD+8v120T1cl3kjg76QwtyBrdIk4WVwK+lAhBJVYCd/v+4nc4y+8JsA==
 
 babel-runtime@^6.26.0:
   version "6.26.0"
