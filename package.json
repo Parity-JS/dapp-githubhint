@@ -43,7 +43,7 @@
     "@babel/plugin-transform-modules-commonjs": "^7.4.3",
     "@babel/plugin-transform-runtime": "^7.4.4",
     "@babel/polyfill": "^7.4.4",
-    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
     "@parity/api": "^5.1.4",
     "@parity/shared": "3.0.x",
