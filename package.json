@@ -52,7 +52,7 @@
     "babel-plugin-react-intl": "^4.1.19",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "css-loader": "^0.28.1",
-    "ejs-loader": "0.3.3",
+    "ejs-loader": "0.3.5",
     "eslint": "^6.5.1",
     "eslint-config-semistandard": "^11.0.0",
     "eslint-config-standard": "^10.2.1",
